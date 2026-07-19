@@ -3,7 +3,7 @@ This project explores whether machine learning can identify patterns associated 
 
 This study ultimately aims to understand the dependcy on how the gene's of an individual with a tumor history affects the respons to the dug being injected
 
-Dataset source link https://www.kaggle.com/datasets/samiraalipour/genomics-of-drug-sensitivity-in-cancer-gdsc
+**Dataset** source link https://www.kaggle.com/datasets/samiraalipour/genomics-of-drug-sensitivity-in-cancer-gdsc
 
 For better comprehension I have divided the dataset into  4 entities such as HOST,TREATMENT , MOLECULAR FINGERPRINT and TREATMENT_RESPONSE
 
@@ -22,16 +22,6 @@ For better comprehension I have divided the dataset into  4 entities such as HOS
 - Scikit-learn
 - Matplotlib
 - Jupyter Notebook
-
-  # Machine Learning Models
-
-The following machine learning models were implemented throughout the project:
-
-| Model | Purpose |
-|---------|---------|
-| Linear Regression | Study relationships between continuous drug response variables |
-| Logistic Regression | Predict drug sensitivity vs resistance |
-| Decision Tree | Interpret biological decision rules associated with drug response |
 
 
 # Project Workflow
